@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Shubh-0786/myleetcode/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/Shubh-0786/myleetcode/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
